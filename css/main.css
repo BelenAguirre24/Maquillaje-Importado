@@ -77,7 +77,7 @@ body{
 
 
 #header {
-    background:url(..Asset/paleta2.png) top/cover no-repeat;
+    background:url(../Asset/paleta2.png) top/cover no-repeat;
 } 
 
 
@@ -180,7 +180,7 @@ a#button.btn.btn-primary.mt-3 {
 /* offers */
 
 #offers {
-    background:url(Asset/oferta.jpg) center/cover no-repeat;
+    background:url(/Asset/oferta.jpg) center/cover no-repeat;
 }
 
 #offers .row {
